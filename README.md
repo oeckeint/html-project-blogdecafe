@@ -1,2 +1,2 @@
-# html-project-blogdecafe
+# BlogdeCafé
 >Bienvenido a este proyecto
